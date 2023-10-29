@@ -1,7 +1,21 @@
-# proxiD 📡
-##### proxiD is a dlang proxy scraper capable of scraping http, socks, socks5 or a mix of all types of proxies.
-#### Compiling ⚙️
-##### To compile this program you must install dmd! After installation has completed you may run the following command: `dmd proxi.d`
-#### Usage 💻
-`[user@hostname proxiD]$ ./proxiD <type-of-proxy>`
-###### Proxy types: http, socks, socks5 and mix
+<div align="center">
+    <h1>proxiD</h1>
+    <p>A basic proxy scraper.</p>
+</div>
+
+> ### Setup ✨
+### Cloning the git respository
+```
+$ git clone https://github.com/bl1ngbl1ng/proxiD
+$ cd proxiD
+```
+### Compiling
+```
+$ dmd proxi.d
+```
+### Running
+```
+$ ./proxi <proxy-type>
+```
+> ### Contributing ✨
+#### If you'd like to contribute, feel free to open a PR
