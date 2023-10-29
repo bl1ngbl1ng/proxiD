@@ -3,6 +3,9 @@
     <p>A basic proxy scraper.</p>
 </div>
 
+###### This program scrapes an API for proxies and saves them to the disk. The type of proxy scraped will be dependent on the users input.
+
+
 > ### Setup ✨
 ### Cloning the git respository
 ```
