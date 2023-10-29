@@ -1,3 +1,9 @@
+/**
+* A basic proxy scraper written in D.
+* This program scrapes proxy lists from an API based on the type of proxy the user wishes to retrieve.
+* It then saves those proxy lists to your disk.
+*/
+
 import std.stdio;
 import std.net.curl;
 
